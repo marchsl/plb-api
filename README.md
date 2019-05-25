@@ -1,1 +1,1 @@
-# plb-api
+# django-api
