@@ -1,14 +1,48 @@
+/.idea
+/toDo-log
+
+__pycache__
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.gz
+*.bz
+*.tar
+*.dmg
+
+*.iso
+*.rar
+
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sqlite
+*.sqlite3
+
+# OS generated files #
+######################
 .DS_Store
-db.sqlite3
-*.pyc
-hackathon/static/bower_components/
-settings.py
-migrations/
+ehthumbs.db
+Icon
 Thumbs.db
-*/vendor
-ionic/platforms
-_build
-_static
-_templates
-.coverage
-settings.py
+.tmtags
+tags
+vendor.tags
+tmtagsHistory
+*.sublime-project
+*.sublime-workspace
+.bundle
